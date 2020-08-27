@@ -8,3 +8,12 @@ This software is at **alpha version!** More coming soon =)
 2. Open the command prompt and use the package manager [pip](https://pip.pypa.io/en/stable/) to install selenium and pyautogui. Next versions will run this automatically.
 3. With the Anaconda Navigator start Spyder IDE.
 
+## Next Features:
+
+1. Retry component. If something fails or is not doing correctly. Stop and retry.
+2. Verification Step: Check the existence of processes that must be closed before start.
+3. User Interface
+4. Pip Install external components automatically at first execution
+5. Add new types of cases to be processed
+6. Optmize NLP
+7. Add feature extraction for customers addresses collector.
