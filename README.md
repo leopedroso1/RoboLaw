@@ -1,7 +1,7 @@
 # RoboLaw :space_invader:
 A complete module for law office cases support: Contains cases webscrapping, file handling/processing, Systems interactions, NLP, and letter builder for marketing campaign.
 
-This software is at its alpha version! More coming soon =)
+This software is at **alpha version!** More coming soon =)
 
 ## Requirements :passport_control:
 1. Python and Anaconda: Download and install [anaconda](https://www.anaconda.com/products/individual) for Python support
