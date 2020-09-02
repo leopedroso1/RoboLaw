@@ -10,10 +10,9 @@ This software is at **alpha version!** More coming soon =)
 
 ## Next Features:
 
-1. Retry component. If something fails or is not doing correctly. Stop and retry.
-2. Verification Step: Check the existence of processes that must be closed before start.
-3. User Interface
-4. Pip Install external components automatically at first execution
-5. Add new types of cases to be processed
-6. Optmize NLP
-7. Add feature extraction for customers addresses collector.
+1. Verification Step: Check the existence of processes that must be closed before start.
+2. User Interface
+3. Pip Install external components automatically at first execution
+4. Add new types of cases to be processed
+5. Optmize NLP
+6. Add feature extraction for customers addresses collector.
